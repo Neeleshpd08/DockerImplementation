@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72566" started-at="2020-05-24T15:02:05Z" finished-at="2020-05-24T15:03:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72566" started-at="2020-05-24T15:02:05Z" finished-at="2020-05-24T15:03:18Z">
+      <class name="DockerGridimplementation.DockerGridimplementation.DockerFirefoxTest">
+        <test-method status="PASS" signature="ChromeTest()[pri:0, instance:DockerGridimplementation.DockerGridimplementation.DockerFirefoxTest@13fee20c]" name="ChromeTest" duration-ms="67485" started-at="2020-05-24T15:02:10Z" finished-at="2020-05-24T15:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+      </class> <!-- DockerGridimplementation.DockerGridimplementation.DockerFirefoxTest -->
+      <class name="DockerGridimplementation.DockerGridimplementation.DockerHooks">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:DockerGridimplementation.DockerGridimplementation.DockerHooks@3b81a1bc]" name="BeforeTest" is-config="true" duration-ms="5044" started-at="2020-05-24T15:02:05Z" finished-at="2020-05-24T15:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:DockerGridimplementation.DockerGridimplementation.DockerHooks@3b81a1bc]" name="AfterTest" is-config="true" duration-ms="5" started-at="2020-05-24T15:03:18Z" finished-at="2020-05-24T15:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- DockerGridimplementation.DockerGridimplementation.DockerHooks -->
+      <class name="DockerGridimplementation.DockerGridimplementation.DockerchromeTest">
+        <test-method status="PASS" signature="ChromeTest()[pri:0, instance:DockerGridimplementation.DockerGridimplementation.DockerchromeTest@64616ca2]" name="ChromeTest" duration-ms="53425" started-at="2020-05-24T15:02:10Z" finished-at="2020-05-24T15:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+      </class> <!-- DockerGridimplementation.DockerGridimplementation.DockerchromeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
